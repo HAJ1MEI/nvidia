@@ -135,6 +135,7 @@ nav img:hover{
     margin: 0 10%;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .cards{
     margin: 10px;
